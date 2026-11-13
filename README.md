@@ -1,6 +1,7 @@
 # rk3588s-bookworm-test
 
 [![Update packages](https://github.com/radxa-repo/rk3588s-bookworm-test/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/rk3588s-bookworm-test/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/rk3588s-bookworm-test/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/rk3588s-bookworm-test/actions/workflows/build.yaml)
 
 ## Content
 
@@ -19,3 +20,4 @@ If your issue is related to a specific package's usage, you should file issues u
 # But, here is a convenient one-liner:
 curl https://radxa-repo.github.io/rk3588s-bookworm-test/install.sh | sh
 ```
+
